@@ -1,9 +1,10 @@
 ### Hi there
 
 👋 My name is Mike Zimin.
+
 I am a passionate developer with experience in Python, C, PHP and JavaScript / TypeScript.
 
-I'm currently focused on Python and diving into the Rust.
+**I'm currently focused on Python and diving into the Rust.**
 
 I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
@@ -15,7 +16,7 @@ Extension for cpython, written in C, which allows you to explore and visualize i
 ---
 
 #### [miel](https://github.com/mikeziminio/miel)
-http / websocket microframework that works with any ASGI server.
+HTTP / WebSocket microframework that works with any ASGI server.
 
 ---
 
