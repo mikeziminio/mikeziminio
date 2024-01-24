@@ -25,6 +25,11 @@ Language coach simulator (with stdio and telegram bot interfaces) and OpenAI and
 
 ---
 
+#### [LenguaSim](https://github.com/mikeziminio/lengua-sim)
+GitHub Counter
+
+---
+
 👯 I am ready to contribute to **python extension** projects that have **rust** under the hood.
 
 Write me in telegram: [@mikezimin](https://t.me/mikezimin)
