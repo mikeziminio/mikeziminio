@@ -1,11 +1,11 @@
 ### Hi there
 
 👋 My name is Mike Zimin.
-I am a passionate developer with experience in python, с, php and js / typescript.
+I am a passionate developer with experience in Python, C, PHP and JavaScript / TypeScript.
 
-I'm currently focused on python and diving into rust.  
+I'm currently focused on Python and diving into the Rust.
 
-I mostly write commercial code, but here are some open source projects I've done in my spare time:
+I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
 ---
 
