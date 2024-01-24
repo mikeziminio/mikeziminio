@@ -11,7 +11,7 @@ I mostly write commercial code, but here are some open source projects that I ha
 ---
 
 #### [python internals](https://github.com/mikeziminio/python-internals)
-Extension for cpython, written in C, which allows you to explore and visualize in runtime the representation of python objects in the form of cpython structs.
+Extension for cpython, written in C, which allows you to explore and visualize in runtime the representation of python objects in the form of cpython C-structs.
 
 ---
 
