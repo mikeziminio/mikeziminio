@@ -20,6 +20,11 @@ HTTP / WebSocket microframework that works with any ASGI server.
 
 ---
 
+#### [LenguaSim](https://github.com/mikeziminio/lengua-sim)
+Language coach simulator (with stdio and telegram bot interfaces) and OpenAI and Google TextToSpeech API battaries under the hood.
+
+---
+
 👯 I am ready to contribute to **python extension** projects that have **rust** under the hood.
 
 Write me in telegram: [@mikezimin](https://t.me/mikezimin)
