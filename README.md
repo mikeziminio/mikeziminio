@@ -22,6 +22,3 @@ http / websocket microframework that works with any ASGI server.
 👯 I am ready to contribute to **python extension** projects that have **rust** under the hood.
 
 Write me in telegram: [@mikezimin](https://t.me/mikezimin)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeziminio&&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
