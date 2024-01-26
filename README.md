@@ -4,7 +4,7 @@
 
 I am a passionate developer with experience in Python, C, PHP and JavaScript / TypeScript.
 
-**I'm currently focused on Python and diving into the Rust.**
+**I am currently focused on Python and diving into the Rust.**
 
 I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
