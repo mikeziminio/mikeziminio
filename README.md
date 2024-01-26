@@ -25,8 +25,8 @@ Language coach simulator (with stdio and telegram bot interfaces) and OpenAI and
 
 ---
 
-#### [LenguaSim](https://github.com/mikeziminio/lengua-sim)
-GitHub Counter
+#### [GitCounter](https://github.com/mikeziminio/gitcounter)
+Аllows you to visualize your GitHub statistics (GitHub GraphQL API and plotly under the hood).
 
 ---
 
