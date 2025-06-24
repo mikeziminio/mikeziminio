@@ -1,11 +1,7 @@
 ### Hi there
 
-👋 My name is Mike Zimin.
-
-I am a passionate developer with experience in Python, C, PHP and JavaScript / TypeScript.
-
-**I am currently focused on Python and diving into the Rust.**
-
+👋 Hi, I'm Mike Zimin — a passionate software developer currently focused on **Rust**.
+I have solid experience with Go, Python, C, and JavaScript.
 I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
 ---
@@ -30,6 +26,6 @@ Language coach simulator (with stdio and telegram bot interfaces) and OpenAI and
 
 ---
 
-👯 I am ready to contribute to **python extension** projects that have **rust** under the hood.
+👯 Looking to collaborate on exciting projects built with **Rust**.
 
 Write me in telegram: [@mikezimin](https://t.me/mikezimin)
