@@ -1,7 +1,9 @@
 ### Hi there
 
 👋 Hi, I'm Mike Zimin — a passionate software developer currently focused on **Rust**.
+
 I have solid experience with Go, Python, C, and JavaScript.
+
 I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
 ---
