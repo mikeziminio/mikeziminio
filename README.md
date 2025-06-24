@@ -1,6 +1,6 @@
 ### Hi there
 
-👋 Hi, I'm Mike Zimin — a passionate software developer currently focused on **Rust**.
+👋 Hi, I'm Mike Zimin — a passionate software developer **currently focused on Rust**.
 
 I have solid experience with Go, Python, C, and JavaScript.
 
