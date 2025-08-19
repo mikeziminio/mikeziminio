@@ -1,8 +1,8 @@
 ### Hi there
 
-👋 Hi, I'm Mike Zimin — a passionate software developer **currently focused on :crab: Rust**.
+👋 Hi, I'm Mike Zimin — a passionate software developer **currently focused on Go**.
 
-I have solid experience with Go, Python, C, and JavaScript.
+I have solid experience with Python, C, and JavaScript.
 
 I mostly write commercial code, but here are some open source projects that I have launched and support in my spare time:
 
@@ -28,6 +28,6 @@ Language coach simulator (with stdio and telegram bot interfaces) and OpenAI and
 
 ---
 
-👯 Looking to collaborate on exciting projects built with **Rust**.
+👯 Looking to collaborate on exciting projects built with **Go**.
 
 Write me in telegram: [@mikezimin](https://t.me/mikezimin)
